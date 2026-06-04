@@ -1,0 +1,2702 @@
+[
+  {
+    "image": "receipt_0000.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1967.5,
+    "date": "14/01/2025",
+    "time": "16:31:25",
+    "reference": "8859158368",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0001.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1552.25,
+    "date": "26/02/2025",
+    "time": "09:31:48",
+    "reference": "7225516707",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0002.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 501.49,
+    "date": "12/03/2025",
+    "time": "12:38:13",
+    "reference": "3606193617",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0003.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1603.81,
+    "date": "05/06/2025",
+    "time": "18:37:04",
+    "reference": "3601030205",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0004.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 967.26,
+    "date": "24/07/2025",
+    "time": "10:05:04",
+    "reference": "5380081427",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0005.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 861.98,
+    "date": "12/12/2024",
+    "time": "15:49:15",
+    "reference": "3787324501",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0006.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2108.3,
+    "date": "16/05/2024",
+    "time": "08:09:42",
+    "reference": "7813898703",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0007.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2385.3,
+    "date": "13/11/2024",
+    "time": "09:52:34",
+    "reference": "5699252753",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0008.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1114.91,
+    "date": "13/03/2024",
+    "time": "08:05:08",
+    "reference": "6194323272",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0009.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1649.07,
+    "date": "09/03/2024",
+    "time": "18:00:21",
+    "reference": "7454399878",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0010.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 371.69,
+    "date": "16/10/2024",
+    "time": "11:29:52",
+    "reference": "4481581187",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0011.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2204.63,
+    "date": "28/08/2025",
+    "time": "16:54:37",
+    "reference": "1815623033",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0012.jpg",
+    "bank": "BANCO BISA",
+    "amount": 891.79,
+    "date": "17/11/2025",
+    "time": "10:24:00",
+    "reference": "9575427195",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0013.jpg",
+    "bank": "BANCO FIE",
+    "amount": 939.67,
+    "date": "22/03/2024",
+    "time": "18:09:55",
+    "reference": "4152607373",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0014.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1654.93,
+    "date": "25/11/2024",
+    "time": "12:47:16",
+    "reference": "9901860348",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0015.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 325.64,
+    "date": "24/01/2024",
+    "time": "11:01:03",
+    "reference": "3926378837",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0016.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1332.29,
+    "date": "10/07/2024",
+    "time": "15:00:26",
+    "reference": "8348695302",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0017.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1211.17,
+    "date": "10/06/2025",
+    "time": "10:49:45",
+    "reference": "8135585901",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0018.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 570.19,
+    "date": "15/06/2024",
+    "time": "11:31:40",
+    "reference": "3121862795",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0019.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 395.16,
+    "date": "17/02/2024",
+    "time": "14:22:33",
+    "reference": "2121323946",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0020.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1809.76,
+    "date": "25/03/2025",
+    "time": "18:40:54",
+    "reference": "4886712182",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0021.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1219.59,
+    "date": "14/11/2025",
+    "time": "15:53:13",
+    "reference": "3265802646",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0022.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 833.76,
+    "date": "20/08/2024",
+    "time": "09:47:41",
+    "reference": "9068634663",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0023.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2263.35,
+    "date": "03/01/2025",
+    "time": "14:24:33",
+    "reference": "2537941228",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0024.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1142.29,
+    "date": "19/03/2024",
+    "time": "10:12:10",
+    "reference": "9984155074",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0025.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1990.67,
+    "date": "27/01/2024",
+    "time": "12:40:30",
+    "reference": "2098152995",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0026.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2294.81,
+    "date": "22/04/2025",
+    "time": "17:34:03",
+    "reference": "3049789747",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0027.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1355.74,
+    "date": "09/05/2024",
+    "time": "09:04:16",
+    "reference": "6725477675",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0028.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1933.18,
+    "date": "18/10/2024",
+    "time": "11:08:40",
+    "reference": "2793440776",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0029.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 467.46,
+    "date": "20/10/2025",
+    "time": "09:32:59",
+    "reference": "6771638374",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0030.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2077.77,
+    "date": "20/01/2024",
+    "time": "12:03:25",
+    "reference": "5644223151",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0031.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1333.07,
+    "date": "25/07/2024",
+    "time": "18:02:08",
+    "reference": "5081367803",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0032.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2338.29,
+    "date": "05/05/2024",
+    "time": "15:01:46",
+    "reference": "1165572179",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0033.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 667.96,
+    "date": "08/05/2025",
+    "time": "18:56:57",
+    "reference": "3264996686",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0034.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1085.56,
+    "date": "01/04/2024",
+    "time": "14:23:04",
+    "reference": "6610016568",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0035.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1037.81,
+    "date": "05/12/2025",
+    "time": "10:18:27",
+    "reference": "9442069469",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0036.jpg",
+    "bank": "BANCO FIE",
+    "amount": 428.41,
+    "date": "01/05/2024",
+    "time": "08:32:40",
+    "reference": "1757870747",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0037.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1637.06,
+    "date": "20/11/2024",
+    "time": "18:23:28",
+    "reference": "8228214912",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0038.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1226.48,
+    "date": "25/12/2024",
+    "time": "09:23:44",
+    "reference": "7285021343",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0039.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 871.26,
+    "date": "01/04/2024",
+    "time": "14:46:36",
+    "reference": "9612807387",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0040.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1574.87,
+    "date": "17/01/2024",
+    "time": "12:42:40",
+    "reference": "3853227234",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0041.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1030.89,
+    "date": "06/07/2025",
+    "time": "16:17:24",
+    "reference": "5373710031",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0042.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 544.93,
+    "date": "24/05/2024",
+    "time": "11:08:47",
+    "reference": "3342331444",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0043.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 929.39,
+    "date": "25/03/2025",
+    "time": "13:42:44",
+    "reference": "4405699791",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0044.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1444.05,
+    "date": "23/02/2024",
+    "time": "14:14:18",
+    "reference": "1124971754",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0045.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1218.92,
+    "date": "09/02/2025",
+    "time": "13:01:04",
+    "reference": "3079863338",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0046.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1179.99,
+    "date": "19/10/2024",
+    "time": "18:33:09",
+    "reference": "1138218031",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0047.jpg",
+    "bank": "BANCO FIE",
+    "amount": 437.56,
+    "date": "18/08/2025",
+    "time": "12:32:24",
+    "reference": "1440044526",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0048.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 994.0,
+    "date": "18/12/2025",
+    "time": "16:12:45",
+    "reference": "8567667988",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0049.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1057.53,
+    "date": "04/06/2024",
+    "time": "18:02:48",
+    "reference": "8455781434",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0050.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2182.53,
+    "date": "12/11/2024",
+    "time": "15:49:21",
+    "reference": "9955814541",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0051.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 2144.68,
+    "date": "18/03/2024",
+    "time": "11:53:35",
+    "reference": "9019851121",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0052.jpg",
+    "bank": "BANCO FIE",
+    "amount": 419.95,
+    "date": "24/09/2025",
+    "time": "13:26:02",
+    "reference": "4948118623",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0053.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2177.05,
+    "date": "07/08/2025",
+    "time": "16:23:46",
+    "reference": "4990390985",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0054.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1265.66,
+    "date": "10/08/2025",
+    "time": "14:14:28",
+    "reference": "8435850357",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0055.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2473.34,
+    "date": "07/03/2025",
+    "time": "09:47:11",
+    "reference": "2296812118",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0056.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 325.29,
+    "date": "21/09/2025",
+    "time": "16:59:26",
+    "reference": "4037984277",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0057.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1109.05,
+    "date": "20/01/2024",
+    "time": "16:20:30",
+    "reference": "9479209680",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0058.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 733.75,
+    "date": "24/11/2024",
+    "time": "08:12:28",
+    "reference": "7036145496",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0059.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 486.14,
+    "date": "21/08/2024",
+    "time": "10:54:19",
+    "reference": "4068209482",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0060.jpg",
+    "bank": "BANCO FIE",
+    "amount": 923.53,
+    "date": "05/05/2024",
+    "time": "15:29:56",
+    "reference": "4851523103",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0061.jpg",
+    "bank": "BANCO BISA",
+    "amount": 699.75,
+    "date": "07/06/2025",
+    "time": "13:51:44",
+    "reference": "5414030244",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0062.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 680.66,
+    "date": "27/04/2025",
+    "time": "12:57:42",
+    "reference": "2528036451",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0063.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1277.3,
+    "date": "09/08/2024",
+    "time": "14:47:05",
+    "reference": "9913939336",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0064.jpg",
+    "bank": "BANCO BISA",
+    "amount": 574.67,
+    "date": "20/07/2024",
+    "time": "11:17:45",
+    "reference": "4283625107",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0065.jpg",
+    "bank": "BANCO BISA",
+    "amount": 935.46,
+    "date": "17/04/2025",
+    "time": "15:33:28",
+    "reference": "8041580039",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0066.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 986.37,
+    "date": "08/08/2025",
+    "time": "12:55:50",
+    "reference": "3407051163",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0067.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 555.41,
+    "date": "14/08/2025",
+    "time": "12:38:27",
+    "reference": "4819416746",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0068.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1326.01,
+    "date": "23/12/2024",
+    "time": "17:37:15",
+    "reference": "7149823290",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0069.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 382.07,
+    "date": "26/03/2024",
+    "time": "17:22:20",
+    "reference": "7653786283",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0070.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 946.97,
+    "date": "15/08/2024",
+    "time": "13:06:09",
+    "reference": "8169022693",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0071.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1418.62,
+    "date": "26/01/2025",
+    "time": "10:52:48",
+    "reference": "5290757323",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0072.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2020.86,
+    "date": "24/03/2025",
+    "time": "16:39:23",
+    "reference": "8281295789",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0073.jpg",
+    "bank": "BANCO FIE",
+    "amount": 568.86,
+    "date": "16/10/2024",
+    "time": "15:19:37",
+    "reference": "5611224221",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0074.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1433.62,
+    "date": "04/06/2024",
+    "time": "12:11:56",
+    "reference": "6225315147",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0075.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1586.56,
+    "date": "15/01/2025",
+    "time": "18:43:56",
+    "reference": "8823625333",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0076.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1319.17,
+    "date": "13/04/2025",
+    "time": "08:26:53",
+    "reference": "6314185381",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0077.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1016.99,
+    "date": "08/04/2024",
+    "time": "12:30:35",
+    "reference": "2021388428",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0078.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 511.25,
+    "date": "22/12/2025",
+    "time": "14:57:02",
+    "reference": "3815421845",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0079.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1262.51,
+    "date": "20/03/2024",
+    "time": "11:46:44",
+    "reference": "3123726655",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0080.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1166.67,
+    "date": "23/07/2025",
+    "time": "13:34:25",
+    "reference": "2609420013",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0081.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2147.17,
+    "date": "11/09/2025",
+    "time": "15:53:01",
+    "reference": "1684655404",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0082.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1992.67,
+    "date": "17/05/2024",
+    "time": "10:43:16",
+    "reference": "4921840803",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0083.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2156.35,
+    "date": "15/02/2024",
+    "time": "14:02:03",
+    "reference": "1911449541",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0084.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 923.89,
+    "date": "25/01/2025",
+    "time": "08:33:42",
+    "reference": "6139497514",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0085.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1842.87,
+    "date": "27/02/2025",
+    "time": "11:14:29",
+    "reference": "3306910507",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0086.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1523.64,
+    "date": "11/12/2024",
+    "time": "09:45:32",
+    "reference": "2625293405",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0087.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1923.41,
+    "date": "27/09/2024",
+    "time": "12:48:21",
+    "reference": "8324018818",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0088.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2442.19,
+    "date": "11/03/2024",
+    "time": "16:49:44",
+    "reference": "2992776711",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0089.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1989.22,
+    "date": "23/05/2024",
+    "time": "13:54:04",
+    "reference": "7081765527",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0090.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1869.91,
+    "date": "16/11/2025",
+    "time": "18:56:22",
+    "reference": "8752312497",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0091.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1599.34,
+    "date": "22/11/2024",
+    "time": "14:29:54",
+    "reference": "7185259759",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0092.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1435.62,
+    "date": "18/09/2025",
+    "time": "18:48:51",
+    "reference": "9995666604",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0093.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2324.0,
+    "date": "24/06/2024",
+    "time": "09:22:09",
+    "reference": "6037321050",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0094.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 701.63,
+    "date": "27/05/2025",
+    "time": "14:54:01",
+    "reference": "8246798412",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0095.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1430.4,
+    "date": "24/09/2024",
+    "time": "15:01:08",
+    "reference": "4461369377",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0096.jpg",
+    "bank": "BANCO FIE",
+    "amount": 992.26,
+    "date": "22/07/2024",
+    "time": "09:52:21",
+    "reference": "4258952892",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0097.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1243.72,
+    "date": "12/01/2024",
+    "time": "16:49:02",
+    "reference": "6464697677",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0098.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1564.93,
+    "date": "02/06/2025",
+    "time": "08:30:18",
+    "reference": "6136458401",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0099.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1137.66,
+    "date": "20/03/2024",
+    "time": "11:08:48",
+    "reference": "5666819038",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0100.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1310.96,
+    "date": "25/03/2025",
+    "time": "13:27:32",
+    "reference": "4436061708",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0101.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2163.66,
+    "date": "18/06/2025",
+    "time": "08:42:32",
+    "reference": "6534161716",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0102.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1787.85,
+    "date": "12/03/2024",
+    "time": "14:18:39",
+    "reference": "3496722587",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0103.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1303.86,
+    "date": "24/12/2024",
+    "time": "09:58:38",
+    "reference": "4174593572",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0104.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2218.1,
+    "date": "24/04/2025",
+    "time": "13:00:45",
+    "reference": "4512024317",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0105.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1068.06,
+    "date": "26/02/2024",
+    "time": "12:33:49",
+    "reference": "7745136380",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0106.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2452.05,
+    "date": "16/01/2025",
+    "time": "08:51:16",
+    "reference": "4455284870",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0107.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1663.58,
+    "date": "25/12/2025",
+    "time": "15:48:19",
+    "reference": "5110099398",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0108.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1873.67,
+    "date": "03/11/2025",
+    "time": "12:24:12",
+    "reference": "5166192188",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0109.jpg",
+    "bank": "BANCO FIE",
+    "amount": 803.83,
+    "date": "15/09/2024",
+    "time": "09:14:32",
+    "reference": "6306149880",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0110.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2048.23,
+    "date": "20/04/2025",
+    "time": "15:45:17",
+    "reference": "3958573030",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0111.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 2326.53,
+    "date": "11/08/2024",
+    "time": "14:26:39",
+    "reference": "4486091965",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0112.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2132.53,
+    "date": "19/10/2025",
+    "time": "15:57:26",
+    "reference": "5993229333",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0113.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1738.5,
+    "date": "26/12/2025",
+    "time": "08:30:35",
+    "reference": "2494006460",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0114.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1537.98,
+    "date": "11/11/2024",
+    "time": "18:39:03",
+    "reference": "9863302779",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0115.jpg",
+    "bank": "BANCO FIE",
+    "amount": 733.26,
+    "date": "04/09/2024",
+    "time": "13:48:55",
+    "reference": "9553190662",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0116.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1619.57,
+    "date": "24/05/2024",
+    "time": "18:07:47",
+    "reference": "5862682188",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0117.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 699.1,
+    "date": "07/07/2024",
+    "time": "16:26:44",
+    "reference": "7727010531",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0118.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1690.19,
+    "date": "10/02/2025",
+    "time": "12:49:01",
+    "reference": "6599603517",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0119.jpg",
+    "bank": "BANCO FIE",
+    "amount": 695.6,
+    "date": "26/09/2025",
+    "time": "09:05:57",
+    "reference": "5139913810",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0120.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 845.35,
+    "date": "21/12/2025",
+    "time": "09:20:50",
+    "reference": "1918612212",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0121.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 779.93,
+    "date": "28/07/2024",
+    "time": "17:51:33",
+    "reference": "6714475132",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0122.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 768.74,
+    "date": "28/05/2024",
+    "time": "13:48:14",
+    "reference": "3545001386",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0123.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 888.89,
+    "date": "25/07/2025",
+    "time": "09:53:57",
+    "reference": "4757347983",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0124.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1506.16,
+    "date": "06/01/2025",
+    "time": "12:50:23",
+    "reference": "5430643357",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0125.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 789.57,
+    "date": "26/10/2025",
+    "time": "17:47:11",
+    "reference": "2507827580",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0126.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 432.48,
+    "date": "20/08/2024",
+    "time": "18:11:30",
+    "reference": "9075559453",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0127.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2307.2,
+    "date": "19/10/2024",
+    "time": "08:01:17",
+    "reference": "5037805560",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0128.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1192.46,
+    "date": "12/03/2025",
+    "time": "08:09:20",
+    "reference": "7678171761",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0129.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2209.66,
+    "date": "17/05/2024",
+    "time": "14:40:14",
+    "reference": "4521986891",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0130.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1236.02,
+    "date": "26/12/2025",
+    "time": "18:29:01",
+    "reference": "2539152532",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0131.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1119.39,
+    "date": "17/02/2025",
+    "time": "12:01:24",
+    "reference": "5824053921",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0132.jpg",
+    "bank": "BANCO BISA",
+    "amount": 642.7,
+    "date": "02/03/2024",
+    "time": "12:07:54",
+    "reference": "3346875135",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0133.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1079.87,
+    "date": "11/10/2025",
+    "time": "16:44:39",
+    "reference": "9728663894",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0134.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1450.88,
+    "date": "24/09/2024",
+    "time": "08:41:48",
+    "reference": "3087522506",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0135.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1121.88,
+    "date": "21/10/2025",
+    "time": "15:18:52",
+    "reference": "4031437747",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0136.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1243.46,
+    "date": "02/07/2025",
+    "time": "11:27:44",
+    "reference": "1600749313",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0137.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 699.5,
+    "date": "11/04/2024",
+    "time": "15:22:00",
+    "reference": "8819609140",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0138.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1140.19,
+    "date": "23/05/2024",
+    "time": "16:55:17",
+    "reference": "2064175412",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0139.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2410.77,
+    "date": "20/09/2025",
+    "time": "16:00:33",
+    "reference": "6492001491",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0140.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 366.43,
+    "date": "01/09/2024",
+    "time": "18:46:14",
+    "reference": "9654590203",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0141.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2013.16,
+    "date": "19/08/2024",
+    "time": "17:44:29",
+    "reference": "3410468135",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0142.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1824.77,
+    "date": "21/08/2024",
+    "time": "15:18:22",
+    "reference": "8700860313",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0143.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 2173.08,
+    "date": "02/01/2024",
+    "time": "10:15:05",
+    "reference": "8443573398",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0144.jpg",
+    "bank": "BANCO BISA",
+    "amount": 377.62,
+    "date": "03/12/2024",
+    "time": "14:05:42",
+    "reference": "7054244407",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0145.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2305.74,
+    "date": "01/08/2024",
+    "time": "18:20:46",
+    "reference": "7490509655",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0146.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 607.64,
+    "date": "11/02/2024",
+    "time": "17:18:57",
+    "reference": "5657535078",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0147.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1713.58,
+    "date": "13/08/2025",
+    "time": "10:40:56",
+    "reference": "6634717452",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0148.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1846.41,
+    "date": "26/01/2025",
+    "time": "13:18:17",
+    "reference": "1455383096",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0149.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 515.84,
+    "date": "13/03/2024",
+    "time": "08:01:51",
+    "reference": "5463722702",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0150.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2269.46,
+    "date": "07/04/2025",
+    "time": "15:09:10",
+    "reference": "2804260984",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0151.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1201.16,
+    "date": "28/12/2024",
+    "time": "13:18:58",
+    "reference": "5793636438",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0152.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1680.67,
+    "date": "13/04/2024",
+    "time": "17:01:57",
+    "reference": "1495243482",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0153.jpg",
+    "bank": "BANCO BISA",
+    "amount": 466.47,
+    "date": "09/12/2025",
+    "time": "17:36:50",
+    "reference": "8900798290",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0154.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 2109.29,
+    "date": "26/07/2025",
+    "time": "11:28:32",
+    "reference": "7234736408",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0155.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1405.93,
+    "date": "10/11/2025",
+    "time": "16:34:26",
+    "reference": "9857027581",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0156.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1218.74,
+    "date": "24/04/2025",
+    "time": "10:14:10",
+    "reference": "4799722720",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0157.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1379.99,
+    "date": "06/01/2024",
+    "time": "13:22:14",
+    "reference": "1595364597",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0158.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2377.2,
+    "date": "08/02/2024",
+    "time": "14:36:49",
+    "reference": "9369443064",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0159.jpg",
+    "bank": "BANCO BISA",
+    "amount": 675.36,
+    "date": "15/04/2024",
+    "time": "17:12:01",
+    "reference": "7391082214",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0160.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1409.42,
+    "date": "13/03/2025",
+    "time": "16:31:34",
+    "reference": "7138960668",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0161.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 749.16,
+    "date": "06/04/2025",
+    "time": "08:48:59",
+    "reference": "9096433616",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0162.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1818.29,
+    "date": "21/04/2024",
+    "time": "14:31:49",
+    "reference": "6561441034",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0163.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1666.78,
+    "date": "19/03/2025",
+    "time": "12:13:22",
+    "reference": "6177598502",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0164.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1930.89,
+    "date": "09/08/2025",
+    "time": "17:24:07",
+    "reference": "5663343566",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0165.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 435.92,
+    "date": "23/07/2024",
+    "time": "15:14:11",
+    "reference": "9150756500",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0166.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1691.31,
+    "date": "14/07/2024",
+    "time": "13:54:02",
+    "reference": "6877097740",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0167.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 2105.55,
+    "date": "11/07/2025",
+    "time": "09:52:47",
+    "reference": "3229519057",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0168.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 552.73,
+    "date": "12/07/2024",
+    "time": "11:34:12",
+    "reference": "2647730229",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0169.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1443.53,
+    "date": "06/09/2024",
+    "time": "16:50:53",
+    "reference": "6451636448",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0170.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2301.8,
+    "date": "19/06/2025",
+    "time": "09:15:20",
+    "reference": "1522328436",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0171.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1151.87,
+    "date": "14/02/2025",
+    "time": "18:11:24",
+    "reference": "9571688606",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0172.jpg",
+    "bank": "BANCO FIE",
+    "amount": 725.7,
+    "date": "10/06/2024",
+    "time": "14:29:35",
+    "reference": "5095772337",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0173.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1371.69,
+    "date": "27/12/2025",
+    "time": "11:26:46",
+    "reference": "4057962212",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0174.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1272.79,
+    "date": "01/08/2025",
+    "time": "09:14:55",
+    "reference": "2038861788",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0175.jpg",
+    "bank": "BANCO BISA",
+    "amount": 816.21,
+    "date": "24/10/2024",
+    "time": "12:38:55",
+    "reference": "5613895914",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0176.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 422.22,
+    "date": "08/02/2025",
+    "time": "18:20:40",
+    "reference": "3076117925",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0177.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1396.78,
+    "date": "19/04/2025",
+    "time": "08:27:53",
+    "reference": "8813110935",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0178.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2404.17,
+    "date": "15/11/2024",
+    "time": "13:58:46",
+    "reference": "2219484562",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0179.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 574.34,
+    "date": "03/01/2025",
+    "time": "15:56:03",
+    "reference": "2090616645",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0180.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 476.02,
+    "date": "01/10/2025",
+    "time": "09:37:32",
+    "reference": "2931020220",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0181.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1837.32,
+    "date": "02/06/2025",
+    "time": "11:48:19",
+    "reference": "8531586532",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0182.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1077.71,
+    "date": "08/06/2025",
+    "time": "12:04:50",
+    "reference": "8353563101",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0183.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 500.74,
+    "date": "28/01/2025",
+    "time": "12:50:14",
+    "reference": "9967176980",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0184.jpg",
+    "bank": "BANCO FIE",
+    "amount": 317.16,
+    "date": "23/12/2025",
+    "time": "13:21:51",
+    "reference": "3883389292",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0185.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 633.74,
+    "date": "10/10/2025",
+    "time": "15:47:25",
+    "reference": "1743770480",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0186.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1754.1,
+    "date": "28/09/2025",
+    "time": "09:30:43",
+    "reference": "1030346744",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0187.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2109.04,
+    "date": "26/10/2024",
+    "time": "17:51:01",
+    "reference": "3358394719",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0188.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2153.22,
+    "date": "08/05/2024",
+    "time": "11:04:44",
+    "reference": "6449784632",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0189.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2104.18,
+    "date": "09/03/2024",
+    "time": "14:47:00",
+    "reference": "3269656591",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0190.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 670.84,
+    "date": "11/06/2024",
+    "time": "11:30:25",
+    "reference": "5098852551",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0191.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2031.54,
+    "date": "28/09/2024",
+    "time": "14:48:40",
+    "reference": "8291813018",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0192.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2131.67,
+    "date": "03/08/2025",
+    "time": "14:21:57",
+    "reference": "7125572359",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0193.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1316.01,
+    "date": "25/03/2025",
+    "time": "16:17:33",
+    "reference": "4890652294",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0194.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 447.87,
+    "date": "05/06/2025",
+    "time": "12:47:52",
+    "reference": "7052522533",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0195.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1170.49,
+    "date": "21/04/2024",
+    "time": "14:05:41",
+    "reference": "2464329338",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0196.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1416.43,
+    "date": "21/12/2024",
+    "time": "11:49:27",
+    "reference": "4918023005",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0197.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 333.75,
+    "date": "06/01/2024",
+    "time": "17:07:02",
+    "reference": "7792372647",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0198.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1559.32,
+    "date": "16/02/2025",
+    "time": "15:03:33",
+    "reference": "2249456775",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0199.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1937.42,
+    "date": "28/05/2025",
+    "time": "08:30:44",
+    "reference": "7481841624",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0200.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2283.45,
+    "date": "24/12/2024",
+    "time": "10:39:55",
+    "reference": "8725393996",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0201.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1871.58,
+    "date": "14/01/2025",
+    "time": "13:48:44",
+    "reference": "8532047838",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0202.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1718.52,
+    "date": "14/04/2024",
+    "time": "18:25:03",
+    "reference": "7132127064",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0203.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 393.17,
+    "date": "16/10/2024",
+    "time": "08:49:38",
+    "reference": "6361854475",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0204.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2192.46,
+    "date": "19/04/2024",
+    "time": "14:30:55",
+    "reference": "2426633094",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0205.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1359.9,
+    "date": "04/09/2025",
+    "time": "15:53:45",
+    "reference": "3225279423",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0206.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 473.47,
+    "date": "24/04/2024",
+    "time": "11:15:11",
+    "reference": "6737619212",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0207.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1749.84,
+    "date": "20/04/2024",
+    "time": "08:43:22",
+    "reference": "1365525344",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0208.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1456.33,
+    "date": "07/01/2025",
+    "time": "17:39:53",
+    "reference": "7260148766",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0209.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1745.84,
+    "date": "06/10/2025",
+    "time": "09:41:43",
+    "reference": "1783986960",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0210.jpg",
+    "bank": "BANCO BISA",
+    "amount": 315.57,
+    "date": "24/07/2024",
+    "time": "08:41:18",
+    "reference": "1983417319",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0211.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1086.21,
+    "date": "08/01/2025",
+    "time": "18:35:41",
+    "reference": "7952096370",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0212.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1640.53,
+    "date": "02/12/2024",
+    "time": "12:35:08",
+    "reference": "5491079635",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0213.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1195.12,
+    "date": "10/01/2024",
+    "time": "14:34:32",
+    "reference": "9213979125",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0214.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1902.81,
+    "date": "14/05/2025",
+    "time": "11:26:02",
+    "reference": "2080323106",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0215.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1689.2,
+    "date": "11/02/2025",
+    "time": "11:05:42",
+    "reference": "9761195984",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0216.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1712.32,
+    "date": "23/08/2025",
+    "time": "08:24:06",
+    "reference": "3478176544",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0217.jpg",
+    "bank": "BANCO FIE",
+    "amount": 818.33,
+    "date": "09/12/2024",
+    "time": "09:21:09",
+    "reference": "1908126625",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0218.jpg",
+    "bank": "BANCO FIE",
+    "amount": 710.39,
+    "date": "25/10/2025",
+    "time": "13:13:54",
+    "reference": "9800227964",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0219.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1702.35,
+    "date": "17/01/2025",
+    "time": "09:50:18",
+    "reference": "7170434894",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0220.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1981.13,
+    "date": "24/04/2025",
+    "time": "12:46:25",
+    "reference": "7074661379",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0221.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1235.76,
+    "date": "16/05/2024",
+    "time": "13:35:28",
+    "reference": "3579278890",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0222.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 817.54,
+    "date": "10/01/2024",
+    "time": "15:14:28",
+    "reference": "7190354804",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0223.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1087.4,
+    "date": "07/07/2024",
+    "time": "16:53:42",
+    "reference": "4619755467",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0224.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2156.72,
+    "date": "15/02/2024",
+    "time": "09:27:58",
+    "reference": "3269151881",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0225.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2282.65,
+    "date": "06/12/2024",
+    "time": "11:23:56",
+    "reference": "5118742836",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0226.jpg",
+    "bank": "BANCO BISA",
+    "amount": 370.09,
+    "date": "21/09/2024",
+    "time": "10:23:21",
+    "reference": "9434976216",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0227.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2300.29,
+    "date": "22/06/2024",
+    "time": "15:52:15",
+    "reference": "8498904055",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0228.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1744.45,
+    "date": "19/04/2024",
+    "time": "15:36:59",
+    "reference": "9430783652",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0229.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 606.5,
+    "date": "18/07/2025",
+    "time": "18:53:13",
+    "reference": "3637430214",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0230.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 656.02,
+    "date": "27/12/2024",
+    "time": "18:27:49",
+    "reference": "5411191616",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0231.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2416.6,
+    "date": "27/07/2025",
+    "time": "17:14:13",
+    "reference": "6620519769",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0232.jpg",
+    "bank": "BANCO FIE",
+    "amount": 570.74,
+    "date": "28/02/2024",
+    "time": "12:52:17",
+    "reference": "5983221223",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0233.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2065.42,
+    "date": "06/09/2024",
+    "time": "15:35:13",
+    "reference": "5734404299",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0234.jpg",
+    "bank": "BANCO FIE",
+    "amount": 882.47,
+    "date": "02/10/2025",
+    "time": "16:45:30",
+    "reference": "6416717615",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0235.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1895.14,
+    "date": "25/01/2024",
+    "time": "09:05:01",
+    "reference": "1679348591",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0236.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1115.37,
+    "date": "24/06/2024",
+    "time": "14:45:09",
+    "reference": "8289855035",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0237.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1388.98,
+    "date": "06/04/2025",
+    "time": "08:44:11",
+    "reference": "8152882393",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0238.jpg",
+    "bank": "BANCO FIE",
+    "amount": 497.84,
+    "date": "24/11/2024",
+    "time": "09:09:51",
+    "reference": "1713173030",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0239.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 721.38,
+    "date": "23/03/2025",
+    "time": "09:27:03",
+    "reference": "9501094227",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0240.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 429.05,
+    "date": "11/03/2025",
+    "time": "08:23:07",
+    "reference": "2068013488",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0241.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1474.26,
+    "date": "04/06/2024",
+    "time": "11:38:41",
+    "reference": "4646035681",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0242.jpg",
+    "bank": "BANCO FIE",
+    "amount": 360.38,
+    "date": "17/10/2025",
+    "time": "16:45:49",
+    "reference": "1738029053",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0243.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 990.71,
+    "date": "02/08/2025",
+    "time": "10:16:07",
+    "reference": "1015888968",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0244.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1199.59,
+    "date": "26/10/2025",
+    "time": "09:22:06",
+    "reference": "6707076685",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0245.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 932.09,
+    "date": "03/08/2025",
+    "time": "17:40:29",
+    "reference": "5277549155",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0246.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1436.69,
+    "date": "24/06/2024",
+    "time": "15:11:36",
+    "reference": "6060827857",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0247.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1043.65,
+    "date": "12/08/2024",
+    "time": "17:22:08",
+    "reference": "2814904432",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0248.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1893.18,
+    "date": "26/08/2024",
+    "time": "15:43:06",
+    "reference": "6689266901",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0249.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1582.18,
+    "date": "20/05/2025",
+    "time": "16:10:00",
+    "reference": "8640304486",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0250.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1184.02,
+    "date": "06/09/2024",
+    "time": "08:35:15",
+    "reference": "5011709473",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0251.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1752.33,
+    "date": "24/10/2025",
+    "time": "11:26:45",
+    "reference": "3100569186",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0252.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 335.69,
+    "date": "22/05/2024",
+    "time": "11:21:17",
+    "reference": "7251861528",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0253.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1470.79,
+    "date": "14/03/2024",
+    "time": "09:55:28",
+    "reference": "1269468610",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0254.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1402.17,
+    "date": "14/11/2025",
+    "time": "11:00:45",
+    "reference": "9487221058",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0255.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1013.7,
+    "date": "21/10/2024",
+    "time": "13:39:48",
+    "reference": "7709563546",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0256.jpg",
+    "bank": "BANCO BISA",
+    "amount": 982.77,
+    "date": "12/07/2024",
+    "time": "15:49:27",
+    "reference": "3198043821",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0257.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1204.85,
+    "date": "09/09/2024",
+    "time": "08:39:53",
+    "reference": "8412972431",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0258.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2193.49,
+    "date": "05/09/2025",
+    "time": "11:08:42",
+    "reference": "3541681890",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0259.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2068.77,
+    "date": "03/07/2025",
+    "time": "18:47:15",
+    "reference": "4343450032",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0260.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 457.31,
+    "date": "14/10/2025",
+    "time": "11:44:03",
+    "reference": "2785396677",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0261.jpg",
+    "bank": "BANCO BISA",
+    "amount": 2470.46,
+    "date": "01/03/2024",
+    "time": "16:52:44",
+    "reference": "7843766901",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0262.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1962.55,
+    "date": "14/08/2025",
+    "time": "13:54:21",
+    "reference": "4586715927",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0263.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 2251.64,
+    "date": "25/07/2025",
+    "time": "17:53:49",
+    "reference": "2083583294",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0264.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2002.13,
+    "date": "10/09/2024",
+    "time": "16:10:20",
+    "reference": "4001716603",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0265.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1351.74,
+    "date": "11/08/2025",
+    "time": "11:45:14",
+    "reference": "5284852939",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0266.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1492.05,
+    "date": "22/02/2025",
+    "time": "11:35:24",
+    "reference": "4870897514",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0267.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 348.14,
+    "date": "11/02/2024",
+    "time": "16:30:02",
+    "reference": "5248300603",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0268.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1534.02,
+    "date": "02/07/2024",
+    "time": "10:50:36",
+    "reference": "2182041566",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0269.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 357.97,
+    "date": "03/10/2025",
+    "time": "11:21:18",
+    "reference": "4638455375",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0270.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1087.28,
+    "date": "03/12/2025",
+    "time": "08:37:59",
+    "reference": "1601723577",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0271.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1740.87,
+    "date": "11/11/2024",
+    "time": "13:33:35",
+    "reference": "1435011714",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0272.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1089.54,
+    "date": "21/08/2025",
+    "time": "13:44:38",
+    "reference": "3622089806",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0273.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1764.44,
+    "date": "19/04/2025",
+    "time": "17:37:18",
+    "reference": "1538959896",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0274.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1309.56,
+    "date": "14/01/2024",
+    "time": "08:42:17",
+    "reference": "4143674827",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0275.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 1555.66,
+    "date": "12/09/2025",
+    "time": "13:11:55",
+    "reference": "4714418553",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0276.jpg",
+    "bank": "BANCO FIE",
+    "amount": 453.63,
+    "date": "25/06/2025",
+    "time": "12:00:49",
+    "reference": "2636334212",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0277.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2322.07,
+    "date": "07/11/2024",
+    "time": "10:30:48",
+    "reference": "3527518058",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0278.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1394.91,
+    "date": "02/08/2025",
+    "time": "13:14:29",
+    "reference": "3333569630",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0279.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1081.35,
+    "date": "02/08/2024",
+    "time": "10:21:05",
+    "reference": "1644372644",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0280.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1284.4,
+    "date": "24/02/2025",
+    "time": "15:35:21",
+    "reference": "4284004234",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0281.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 974.28,
+    "date": "04/08/2025",
+    "time": "16:51:15",
+    "reference": "5614502590",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0282.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 386.32,
+    "date": "22/08/2025",
+    "time": "13:09:07",
+    "reference": "1229153444",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0283.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 345.78,
+    "date": "28/09/2025",
+    "time": "15:47:40",
+    "reference": "6954840138",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0284.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2106.33,
+    "date": "12/02/2025",
+    "time": "12:53:32",
+    "reference": "4564065336",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0285.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 920.78,
+    "date": "19/10/2025",
+    "time": "09:16:22",
+    "reference": "2952149735",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0286.jpg",
+    "bank": "BANCO BISA",
+    "amount": 459.42,
+    "date": "23/02/2024",
+    "time": "14:26:27",
+    "reference": "4760591246",
+    "concept": "CUOTA MENSUAL"
+  },
+  {
+    "image": "receipt_0287.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 354.98,
+    "date": "09/02/2024",
+    "time": "14:39:36",
+    "reference": "3207110147",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0288.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2377.45,
+    "date": "26/12/2025",
+    "time": "15:03:32",
+    "reference": "4056247501",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0289.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2082.57,
+    "date": "06/02/2025",
+    "time": "08:50:01",
+    "reference": "5416769735",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0290.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 2372.81,
+    "date": "16/10/2024",
+    "time": "10:15:02",
+    "reference": "7767758025",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0291.jpg",
+    "bank": "TIGO MONEY",
+    "amount": 1339.96,
+    "date": "21/09/2024",
+    "time": "14:40:42",
+    "reference": "7639015677",
+    "concept": "MENSUALIDAD OCTUBRE"
+  },
+  {
+    "image": "receipt_0292.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1984.26,
+    "date": "05/11/2025",
+    "time": "11:59:58",
+    "reference": "9576644268",
+    "concept": "PAGO COLEGIATURA"
+  },
+  {
+    "image": "receipt_0293.jpg",
+    "bank": "BANCO BISA",
+    "amount": 1333.22,
+    "date": "08/09/2025",
+    "time": "09:28:20",
+    "reference": "1880660775",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0294.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 373.7,
+    "date": "07/12/2024",
+    "time": "14:45:38",
+    "reference": "7014910189",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0295.jpg",
+    "bank": "BANCO FIE",
+    "amount": 2075.88,
+    "date": "16/06/2025",
+    "time": "09:58:16",
+    "reference": "1246564861",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0296.jpg",
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "amount": 2378.02,
+    "date": "09/06/2024",
+    "time": "18:54:36",
+    "reference": "5478452083",
+    "concept": "CUOTA ESCOLAR MENSUAL"
+  },
+  {
+    "image": "receipt_0297.jpg",
+    "bank": "BANCO ECONOMICO",
+    "amount": 1109.23,
+    "date": "13/01/2025",
+    "time": "09:06:10",
+    "reference": "1097704598",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0298.jpg",
+    "bank": "BANCO MERCANTIL SANTA CRUZ",
+    "amount": 1520.1,
+    "date": "17/03/2024",
+    "time": "13:47:54",
+    "reference": "7262082361",
+    "concept": "MENSUALIDAD NOVIEMBRE"
+  },
+  {
+    "image": "receipt_0299.jpg",
+    "bank": "BANCO FIE",
+    "amount": 1600.98,
+    "date": "07/01/2025",
+    "time": "16:49:51",
+    "reference": "7838518395",
+    "concept": "PAGO COLEGIATURA"
+  }
+]

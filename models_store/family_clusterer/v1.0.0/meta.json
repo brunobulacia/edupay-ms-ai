@@ -1,0 +1,18 @@
+{
+  "version": "kmeans-v1.0.0",
+  "features": [
+    "avg_payment_day",
+    "std_dev_payment_day",
+    "mora_incidence",
+    "annual_payer_score",
+    "method_consistency",
+    "months_active"
+  ],
+  "labelMap": {
+    "1": "PUNTUAL_ESTRELLA",
+    "2": "REGULAR",
+    "0": "IRREGULAR",
+    "3": "MOROSO_CRONICO"
+  },
+  "silhouetteScore": 0.3944
+}

@@ -1,0 +1,28 @@
+{
+  "version": "lgbm-v1.0.0",
+  "features": [
+    "avg_days_late_last_3_months",
+    "max_days_late_ever",
+    "months_paid_on_time_ratio",
+    "consecutive_late_payments",
+    "has_paid_annual_ever",
+    "preferred_payment_method_qr",
+    "preferred_payment_method_stripe",
+    "preferred_payment_method_blockchain",
+    "avg_payment_day_of_month",
+    "uses_mobile_app",
+    "num_students",
+    "years_enrolled",
+    "has_discount",
+    "month",
+    "is_after_carnaval",
+    "months_remaining_year"
+  ],
+  "metrics": {
+    "aucRoc": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "trainingSamples": 4000
+  }
+}

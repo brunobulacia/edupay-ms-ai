@@ -1,0 +1,248 @@
+### Variables
+@base = http://localhost:8000
+@family_id = familia-test-001
+@user_id = usuario-test-001
+
+# ==============================================================================
+# HEALTH
+# ==============================================================================
+
+### Health check
+GET {{base}}/health
+
+
+# ==============================================================================
+# RISK SCORE — ML Supervisado (LightGBM)
+# ==============================================================================
+
+### Familia morosa (riesgo HIGH esperado)
+POST {{base}}/ai/family/{{family_id}}/risk-score
+Content-Type: application/json
+
+{
+  "avg_days_late_last_3_months": 18.0,
+  "max_days_late_ever": 35,
+  "months_paid_on_time_ratio": 0.2,
+  "consecutive_late_payments": 4,
+  "has_paid_annual_ever": false,
+  "preferred_payment_method_qr": true,
+  "preferred_payment_method_stripe": false,
+  "preferred_payment_method_blockchain": false,
+  "avg_payment_day_of_month": 25,
+  "uses_mobile_app": false,
+  "num_students": 3,
+  "years_enrolled": 2,
+  "has_discount": false,
+  "month": 10,
+  "is_after_carnaval": false,
+  "months_remaining_year": 2
+}
+
+###
+
+### Familia puntual (riesgo LOW esperado)
+POST {{base}}/ai/family/familia-puntual-002/risk-score
+Content-Type: application/json
+
+{
+  "avg_days_late_last_3_months": -2.5,
+  "max_days_late_ever": 1,
+  "months_paid_on_time_ratio": 0.97,
+  "consecutive_late_payments": 0,
+  "has_paid_annual_ever": true,
+  "preferred_payment_method_stripe": true,
+  "avg_payment_day_of_month": 5,
+  "uses_mobile_app": true,
+  "num_students": 1,
+  "years_enrolled": 7,
+  "has_discount": true,
+  "month": 5,
+  "months_remaining_year": 7
+}
+
+###
+
+### Historial de predicciones
+GET {{base}}/ai/family/{{family_id}}/risk-score/history
+
+
+# ==============================================================================
+# CLUSTER — ML No Supervisado (K-Means)
+# ==============================================================================
+
+### Familia morosa crónica (MOROSO_CRONICO esperado)
+POST {{base}}/ai/family/{{family_id}}/cluster
+Content-Type: application/json
+
+{
+  "avg_payment_day": 28.0,
+  "std_dev_payment_day": 6.0,
+  "mora_incidence": 0.95,
+  "annual_payer_score": 0.0,
+  "method_consistency": 0.7,
+  "months_active": 24
+}
+
+###
+
+### Familia puntual estrella (PUNTUAL_ESTRELLA esperado)
+POST {{base}}/ai/family/familia-puntual-002/cluster
+Content-Type: application/json
+
+{
+  "avg_payment_day": 4.5,
+  "std_dev_payment_day": 1.2,
+  "mora_incidence": 0.03,
+  "annual_payer_score": 1.0,
+  "method_consistency": 1.0,
+  "months_active": 24
+}
+
+###
+
+### Familia irregular
+POST {{base}}/ai/family/familia-irregular-003/cluster
+Content-Type: application/json
+
+{
+  "avg_payment_day": 18.0,
+  "std_dev_payment_day": 9.5,
+  "mora_incidence": 0.60,
+  "annual_payer_score": 0.0,
+  "method_consistency": 0.5,
+  "months_active": 18
+}
+
+###
+
+### Obtener cluster guardado
+GET {{base}}/ai/family/{{family_id}}/cluster
+
+
+# ==============================================================================
+# OCR — Deep Learning (Receipt Analyzer)
+# ==============================================================================
+
+### Analizar comprobante (requiere archivo de imagen)
+# Usá uno de los recibos sintéticos generados en app/ml/ocr/data/synthetic/
+POST {{base}}/ai/receipt/analyze
+Content-Type: multipart/form-data; boundary=----FormBoundary
+
+------FormBoundary
+Content-Disposition: form-data; name="family_id"
+
+{{family_id}}
+------FormBoundary
+Content-Disposition: form-data; name="user_id"
+
+{{user_id}}
+------FormBoundary
+Content-Disposition: form-data; name="file"; filename="receipt_0001.jpg"
+Content-Type: image/jpeg
+
+< ./app/ml/ocr/data/synthetic/receipt_0001.jpg
+------FormBoundary--
+
+###
+
+### Historial OCR de la familia
+GET {{base}}/ai/receipt/history/{{family_id}}
+
+
+# ==============================================================================
+# PAYMENT EVENTS — Registro de pagos desde MS-Pagos
+# ==============================================================================
+
+### Registrar pago confirmado a tiempo
+POST {{base}}/events/payment
+Content-Type: application/json
+
+{
+  "familyId": "{{family_id}}",
+  "studentId": "alumno-uuid-001",
+  "paymentId": "pago-uuid-001",
+  "eventType": "payment.confirmed",
+  "month": 10,
+  "year": 2025,
+  "method": "QR",
+  "amountBOB": 850.00,
+  "paidAt": "2025-10-07T14:23:00Z",
+  "dueDate": "2025-10-10T23:59:59Z"
+}
+
+###
+
+### Registrar pago con mora
+POST {{base}}/events/payment
+Content-Type: application/json
+
+{
+  "familyId": "{{family_id}}",
+  "studentId": "alumno-uuid-001",
+  "paymentId": "pago-uuid-002",
+  "eventType": "payment.confirmed",
+  "month": 9,
+  "year": 2025,
+  "method": "STRIPE",
+  "amountBOB": 850.00,
+  "paidAt": "2025-09-25T10:00:00Z",
+  "dueDate": "2025-09-10T23:59:59Z"
+}
+
+###
+
+### Ver historial de pagos
+GET {{base}}/events/payment/{{family_id}}
+
+###
+
+### Ver pagos por año
+GET {{base}}/events/payment/{{family_id}}?year=2025
+
+
+# ==============================================================================
+# DOCUMENTOS — Gestión de archivos
+# ==============================================================================
+
+### Subir documento (requiere archivo)
+POST {{base}}/documents/upload
+Content-Type: multipart/form-data; boundary=----DocBoundary
+
+------DocBoundary
+Content-Disposition: form-data; name="family_id"
+
+{{family_id}}
+------DocBoundary
+Content-Disposition: form-data; name="uploaded_by"
+
+{{user_id}}
+------DocBoundary
+Content-Disposition: form-data; name="doc_type"
+
+CI_ALUMNO
+------DocBoundary
+Content-Disposition: form-data; name="file"; filename="ci_alumno.pdf"
+Content-Type: application/pdf
+
+< ./app/ml/ocr/data/synthetic/receipt_0001.jpg
+------DocBoundary--
+
+###
+
+### Listar documentos de la familia
+GET {{base}}/documents/family/{{family_id}}
+
+###
+
+### Listar documentos pendientes de revisión
+GET {{base}}/documents/pending
+
+###
+
+### Aprobar documento (reemplazá DOCUMENT_ID con el _id devuelto)
+PATCH {{base}}/documents/DOCUMENT_ID/status?status=APPROVED&reviewed_by=admin-uuid-001
+
+###
+
+### Rechazar documento
+PATCH {{base}}/documents/DOCUMENT_ID/status?status=REJECTED&reviewed_by=admin-uuid-001&rejection_reason=Documento%20ilegible
