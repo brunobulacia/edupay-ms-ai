@@ -6,6 +6,8 @@ import logging
 
 from fastapi import FastAPI
 from app.database import get_db, close_connection, init_db
+from app.database.connection import a_put_item
+from app.database.dynamo_utils import to_dynamo
 from app.routers.ai_router import router as ai_router
 from app.routers.events_router import router as events_router
 from app.routers.documents_router import router as documents_router
@@ -16,16 +18,16 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-async def _register_models(db):
+async def _register_models(db=None):
     models = [
         {
-            "path": Path("models_store/mora_predictor/v1.0.0/meta.json"),
-            "name": "mora_predictor",
+            "path":      Path("models_store/mora_predictor/v1.0.0/meta.json"),
+            "modelName": "mora_predictor",
             "algorithm": "LightGBM",
         },
         {
-            "path": Path("models_store/family_clusterer/v1.0.0/meta.json"),
-            "name": "family_clusterer",
+            "path":      Path("models_store/family_clusterer/v1.0.0/meta.json"),
+            "modelName": "family_clusterer",
             "algorithm": "KMeans",
         },
     ]
@@ -34,30 +36,28 @@ async def _register_models(db):
             continue
         with open(m["path"]) as f:
             meta = json.load(f)
-        await db.model_registry.update_one(
-            {"modelName": m["name"], "version": meta["version"]},
-            {"$set": {
-                "modelName": m["name"],
-                "version": meta["version"],
-                "algorithm": m["algorithm"],
-                "trainedAt": datetime.now(timezone.utc),
-                "trainingSamples": meta.get("metrics", {}).get("trainingSamples", 5000),
-                "metrics": meta.get("metrics", {}),
-                "artifactS3Key": f"models/{m['name']}/{meta['version']}/model.pkl",
-                "featuresUsed": meta.get("features", []),
-                "isProduction": True,
-            }},
-            upsert=True,
-        )
-        print(f"[DB] model_registry updated: {m['name']} {meta['version']}")
+        item = to_dynamo({
+            "modelName":       m["modelName"],
+            "version":         meta["version"],
+            "algorithm":       m["algorithm"],
+            "trainedAt":       datetime.now(timezone.utc).isoformat(),
+            "trainingSamples": meta.get("metrics", {}).get("trainingSamples", 5000),
+            "metrics":         meta.get("metrics", {}),
+            "artifactS3Key":   f"models/{m['modelName']}/{meta['version']}/model.pkl",
+            "featuresUsed":    meta.get("features", []),
+            "isProduction":    True,
+        })
+        item["modelName"] = m["modelName"]
+        item["version"]   = meta["version"]
+        await a_put_item("edupay-model-registry", item)
+        logger.info("[DB] model_registry updated: %s %s", m["modelName"], meta["version"])
 
 
 @asynccontextmanager
 async def lifespan(_app: FastAPI):
     # ── Base de datos ──────────────────────────────────────────────────────────
-    db = get_db()
-    await init_db(db)
-    await _register_models(db)
+    await init_db()
+    await _register_models()
 
     # ── RabbitMQ ───────────────────────────────────────────────────────────────
     try:

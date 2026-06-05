@@ -1,19 +1,31 @@
-from motor.motor_asyncio import AsyncIOMotorDatabase
+from datetime import datetime, timezone
+
+from boto3.dynamodb.conditions import Key
+
+from app.database.connection import a_put_item, a_query
+from app.database.dynamo_utils import to_dynamo, from_dynamo
+
+TABLE = "edupay-ocr"
 
 
 class OcrRepository:
-    def __init__(self, db: AsyncIOMotorDatabase):
-        self._col = db["ocr_analyses"]
+    def __init__(self, db=None):
+        pass
 
     async def save(self, doc: dict) -> str:
-        result = await self._col.insert_one(doc)
-        return str(result.inserted_id)
+        now = datetime.now(timezone.utc).isoformat()
+        item = to_dynamo(doc)
+        item["familyId"]  = doc["familyId"]
+        item["createdAt"] = doc.get("createdAt", datetime.now(timezone.utc)).isoformat() \
+                            if hasattr(doc.get("createdAt"), "isoformat") else now
+        await a_put_item(TABLE, item)
+        return item["createdAt"]
 
     async def find_by_family(self, family_id: str, limit: int = 20) -> list[dict]:
-        cursor = self._col.find(
-            {"familyId": family_id},
-            {"_id": 0},
-            sort=[("createdAt", -1)],
-            limit=limit,
+        items = await a_query(
+            TABLE,
+            KeyConditionExpression=Key("familyId").eq(family_id),
+            ScanIndexForward=False,
+            Limit=limit,
         )
-        return await cursor.to_list(length=limit)
+        return [from_dynamo(i) for i in items]

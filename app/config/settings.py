@@ -2,19 +2,22 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    mongodb_uri: str
-    mongodb_database: str = "edupay_ia"
+    # ── DynamoDB ───────────────────────────────────────────────────────────────
+    # En local apunta a DynamoDB Local; en prod queda vacío (usa endpoint AWS real)
+    dynamodb_endpoint_url: str = ""
+    aws_access_key_id: str = "local"
+    aws_secret_access_key: str = "local"
+    aws_region: str = "us-east-1"
 
     # ── RabbitMQ ───────────────────────────────────────────────────────────────
     rabbitmq_url: str = "amqp://guest:guest@localhost:5672/"
 
-    aws_access_key_id: str = ""
-    aws_secret_access_key: str = ""
-    aws_region: str = "us-east-1"
+    # ── S3 ─────────────────────────────────────────────────────────────────────
     s3_bucket_docs: str = "edupay-scz-docs"
     s3_bucket_models: str = "edupay-scz-models"
 
-    models_path: str = "/app/models"
+    # ── App ────────────────────────────────────────────────────────────────────
+    models_path: str = "./models_store"
     jwt_secret: str = "cambiar_en_produccion"
     app_port: int = 8000
     environment: str = "development"

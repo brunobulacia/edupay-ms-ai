@@ -6,9 +6,9 @@ python-multipart==0.0.29
 # RabbitMQ
 aio-pika==9.5.5
 
-# MongoDB
-motor==3.4.0
-pymongo==4.7.0
+# DynamoDB (reemplaza MongoDB)
+boto3==1.34.69
+botocore==1.34.69
 
 # ML — Tabular
 lightgbm==4.6.0
@@ -22,12 +22,17 @@ joblib==1.5.3
 # transformers==4.41.0   # uncomment for full TrOCR support
 Pillow==11.2.1
 
-# SSL / Certs (macOS Python fix for MongoDB Atlas)
-certifi==2026.5.20
-
 # Settings & JWT
 pydantic==2.13.4
 pydantic-settings==2.14.1
+python-dotenv==1.2.2
+python-jose[cryptography]==3.3.0
+
+# Testing
+pytest==8.2.0
+pytest-asyncio==0.23.7
+httpx==0.27.0
+
 python-dotenv==1.2.2
 python-jose[cryptography]==3.3.0
 
